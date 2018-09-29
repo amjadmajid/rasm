@@ -9,5 +9,5 @@ Point to be worked/improved upon
 2. Predefined basic shapes
 3. ...
 
-### Fork it, improve it and, fire a pull request to share it with rest!
+### Fork it, improve it and, fire a pull request to share it with the rest!
 See a live demo at http://alelmcity.com/apps/rasm/
